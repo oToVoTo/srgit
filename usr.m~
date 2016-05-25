@@ -1,5 +1,4 @@
 function [A,Y,numIter,tElapsed,finalResidual]=usr(X,k,option)
-%
 % NMF based on multiple update rules: X=AY, s.t. X,A,Y>=0.
 % Definition:
 %     [A,Y,numIter,tElapsed,finalResidual]=nmfrule(X,k)
