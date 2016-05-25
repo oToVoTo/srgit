@@ -1,5 +1,5 @@
 function [testClassPredicted,sparsity,otherOutput]=src(trainSet,trainClass,testSet,option)
-% branch test1
+% branch test1 testmaster
 % sparse representation classification approach (SRC1)
 % trainSet, matrix, each column is a training sample
 % trainClass: column vector, the class labels for the training samples
