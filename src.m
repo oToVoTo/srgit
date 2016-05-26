@@ -1,4 +1,5 @@
 function [testClassPredicted,sparsity,otherOutput]=src(trainSet,trainClass,testSet,option)
+% add branch from learngit
 % branch test1 testmaster test2 testdev
 % sparse representation classification approach (SRC1)
 % trainSet, matrix, each column is a training sample
