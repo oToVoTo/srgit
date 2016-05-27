@@ -14,7 +14,8 @@
 #include <sys/stat.h>
 #include <sys/types.h>
 #include <unistd.h>
-
+//
+//
 using namespace std;
 using namespace cv;
 extern int get_dir_count(char *root);
