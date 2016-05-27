@@ -1,5 +1,6 @@
 function [featIndSelected,otherOutput]=featSel(trainSet,trainClass,fsMethod,option)
 % feature selection
+%
 % trainSet, matrix, the training set with samples in columns and features in rows.
 % trainClass: column vector of numbers or string, the class labels of the traning set.
 % fsMethod: string, by now it can be 'none','ttest', and 'nmf'. More
